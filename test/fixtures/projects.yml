@@ -1,0 +1,67 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  summary: MyString
+  tag1: MyString
+  tag2: MyString
+  tag3: MyString
+  tag4: MyString
+  tag5: MyString
+  tag6: MyString
+  tag7: MyString
+  tag8: MyString
+  tag9: MyString
+  tag10: MyString
+  place: 1
+  url: MyString
+  start_date: 2014-09-18
+  member: MyString
+  job: 1
+  skill_description: MyString
+  skill_tag1: MyString
+  skill_tag2: MyString
+  skill_tag3: MyString
+  skill_tag4: MyString
+  skill_tag5: MyString
+  skill_tag6: MyString
+  skill_tag7: MyString
+  skill_tag8: MyString
+  skill_tag9: MyString
+  skill_tag10: MyString
+  owner_pic_url: MyString
+  pic_position: 1
+  vision: MyString
+
+two:
+  name: MyString
+  summary: MyString
+  tag1: MyString
+  tag2: MyString
+  tag3: MyString
+  tag4: MyString
+  tag5: MyString
+  tag6: MyString
+  tag7: MyString
+  tag8: MyString
+  tag9: MyString
+  tag10: MyString
+  place: 1
+  url: MyString
+  start_date: 2014-09-18
+  member: MyString
+  job: 1
+  skill_description: MyString
+  skill_tag1: MyString
+  skill_tag2: MyString
+  skill_tag3: MyString
+  skill_tag4: MyString
+  skill_tag5: MyString
+  skill_tag6: MyString
+  skill_tag7: MyString
+  skill_tag8: MyString
+  skill_tag9: MyString
+  skill_tag10: MyString
+  owner_pic_url: MyString
+  pic_position: 1
+  vision: MyString
