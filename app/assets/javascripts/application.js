@@ -17,4 +17,7 @@
 //= require lumen/loader
 //= require lumen/bootswatch
 
-//= require tag-it/tag-it.js
+//= require jquery.validate
+//= require jquery.validate.additional-methods
+
+//= require jquery.validate.bootstrap3
